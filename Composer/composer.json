@@ -1,0 +1,15 @@
+{
+    "name": "thiagocod/composer",
+    "description": "Aula de PhP7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Thiago Vieira",
+            "email": "thiagoviera0007@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "monolog/monolog":"1.0.*"
+    }
+}
