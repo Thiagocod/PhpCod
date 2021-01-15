@@ -1,0 +1,1 @@
+A ideia principal de criação de namespace e organizar em pastas sua classes e utilizada de forma fácil. para utilizar essa opção basta dar uma olha nos exemplos lembrando que para definir utiliza namespace e para usar ela em seus codigos o palavra reservado "use".
